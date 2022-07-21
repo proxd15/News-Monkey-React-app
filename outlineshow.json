@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": null,
+            "title": "California Primary Election Results 2022 - The New York Times",
+            "description": "See full results and maps from the California primary elections.",
+            "url": "https://www.nytimes.com/interactive/2022/06/07/us/elections/results-california.html",
+            "urlToImage": "https://static01.nyt.com/images/2020/11/03/us/elections/eln-promo-state-californiaRESULTSLIVE/eln-promo-state-californiaRESULTSLIVE-facebookJumbo-v5.png",
+            "publishedAt": "2022-06-08T14:33:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Yasmeen Abutaleb, Andrew Jeong",
+            "title": "Moderna seeking FDA authorization of omicron-specific booster shot - The Washington Post",
+            "description": "Company says updated coronavirus vaccine produces more antibodies against omicron, but it’s unclear how effective it might be against latest variants.",
+            "url": "https://www.washingtonpost.com/health/2022/06/08/moderna-booster-omicron-coronavirus-trial/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QGRXVAT66MI6ZDGIW2LFMS5HSY.jpg&w=1440",
+            "publishedAt": "2022-06-08T14:00:00Z",
+            "content": "Placeholder while article actions load\r\nModerna said it will seek authorization for an updated coronavirus vaccine designed to protect against omicron subvariants that the company described as its le… [+3458 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Annie Karni",
+            "title": "House Holds Hearing on Gun Violence: Watch Live - The New York Times",
+            "description": "Shootings in Buffalo and Uvalde, Texas, have spurred a national debate on gun control and the response of police in school shootings.",
+            "url": "https://www.nytimes.com/live/2022/06/08/us/gun-violence-hearing-uvalde-buffalo",
+            "urlToImage": "https://static01.nyt.com/images/2022/06/08/multimedia/08guns-hearing-promo-1045am/08guns-hearing-promo-1045am-facebookJumbo.jpg",
+            "publishedAt": "2022-06-08T13:59:41Z",
+            "content": "President Biden gave an address at the White House on Thursday calling for Congress to pass several gun control measures after a spate of recent mass shootings. The following is a transcript of his r… [+13286 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Dow Jones Falls As Treasury Yields Climb; Tesla Races Higher On Battery Deal - Investor's Business Daily",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiiAFodHRwczovL3d3dy5pbnZlc3RvcnMuY29tL21hcmtldC10cmVuZC9zdG9jay1tYXJrZXQtdG9kYXkvZG93LWpvbmVzLWZ1dHVyZXMtZmFsbC1hcy10cmVhc3VyeS15aWVsZHMtY2xpbWItNi10b3Atc3RvY2tzLXRvLWJ1eS1hbmQtd2F0Y2gv0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-06-08T13:52:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Gustaf Kilander",
+            "title": "Johnny Depp may drop $8m damages claim against Amber Heard if she stops appeal, lawyers reveal - The Independent",
+            "description": "‘This was never about money for Mr Depp,’ Ben Chew says",
+            "url": "https://www.independent.co.uk/news/world/americas/johnny-depp-amber-heard-damages-claim-b2096515.html",
+            "urlToImage": "https://static.independent.co.uk/2022/06/08/15/pjimage.jpeg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2022-06-08T13:36:22Z",
+            "content": "Johnny Depps lawyers have floated a deal with Amber Heard which could spare her from paying millions she owes her ex-husband in damages. \r\nIn their first TV interviews since the bombshell trial concl… [+3815 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Turkey says U.N. plan for Ukraine grain exports reasonable, Kyiv wary - Reuters",
+            "description": "Turkey's foreign minister said on Wednesday a United Nations plan to ease a global food crisis by restarting Ukrainian grain exports along a sea corridor was \"reasonable\", and required more talks with Moscow and Kyiv to ensure ships' safety.",
+            "url": "https://www.reuters.com/world/after-russia-meeting-turkey-says-ukraine-grain-export-plan-reasonable-2022-06-08/",
+            "urlToImage": "https://www.reuters.com/resizer/LyI2jIBnbjCB2vo9viUorOLn9cc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7YV4H4247VMB7KQUONSDLCKBSI.jpg",
+            "publishedAt": "2022-06-08T13:21:00Z",
+            "content": "ANKARA, June 8 (Reuters) - Turkey's foreign minister said on Wednesday a United Nations plan to ease a global food crisis by restarting Ukrainian grain exports along a sea corridor was \"reasonable\", … [+3404 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Charles Pulliam-Moore",
+            "title": "Black Adam's first trailer brings the thunder and the fury - The Verge",
+            "description": "Warner Bros.’ Black Adam — out October 21st — introduces a new generation of Justice-minded heroes coming together to face the ultimate evil in its first trailer.",
+            "url": "https://www.theverge.com/23159511/black-adam-trailer-the-rock-release-date",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/-Lad1rwkYLGPuYc7-UjTQjfPTm4=/300x0:2569x1188/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23614819/Screen_Shot_2022_06_08_at_9.02.32_AM.png",
+            "publishedAt": "2022-06-08T13:19:06Z",
+            "content": "The Justice Society will rise to meet Black Adam this fall"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sports Illustrated"
+            },
+            "author": "Bob Harig",
+            "title": "Bryson DeChambeau and Patrick Reed Will Be Joining LIV Golf for First U.S. Event - Sports Illustrated",
+            "description": "The next LIV Golf event will begin June 30 outside Portland, Oregon, and Bryson DeChambeau and Patrick Reed will be major additions.",
+            "url": "https://www.si.com/golf/news/bryson-dechambeau-and-patrick-reed-will-be-joining-liv-golf-for-first-u-s-event",
+            "urlToImage": "https://www.si.com/.image/t_share/MTg4NTk3MzI2ODQxOTE0OTk2/dp-bryson.jpg",
+            "publishedAt": "2022-06-08T12:39:40Z",
+            "content": "Bryson DeChambeau and Patrick Reed will be the next big names to join LIV Golf.\r\nUSA Today\r\nHERTFORDSHIRE, England — Bryson DeChambeau and Patrick Reed are the latest players set to join the LIV Golf… [+2759 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Katelyn Polantz, CNN Reporter, Crime and Justice",
+            "title": "House to get more Eastman emails on eve of first January 6 hearing, including electors discussions and other planning - CNN",
+            "description": "A federal judge has decided the House select committee investigating the January 6 insurrection should get access on Wednesday to 159 emails of right-wing attorney John Eastman that largely relate to his efforts on behalf of Donald Trump to try to block the 2…",
+            "url": "https://www.cnn.com/2022/06/08/politics/eastman-emails-january-6/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220601202648-04-january-6-committee-eastman-file-super-tease.jpg",
+            "publishedAt": "2022-06-08T12:39:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Benjamin Brown and Eliza Mackintosh, CNN",
+            "title": "One person dead, five with life-threatening injuries after car driven into crowd in Berlin - CNN",
+            "description": "A car drove into a crowd of people in a busy shopping district in western Berlin on Wednesday, killing at least one person and leaving five with life-threatening injuries, a fire department spokesperson told CNN.",
+            "url": "https://www.cnn.com/2022/06/08/europe/berlin-vehicle-incident-germany-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220608053808-04-berlin-germany-car-incident-super-tease.jpg",
+            "publishedAt": "2022-06-08T12:17:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Musadiq Bidar",
+            "title": "San Francisco votes overwhelmingly to recall progressive DA Chesa Boudin - CBS News",
+            "description": "He's been considered one of the most progressive DAs in the nation but crime has surged under his watch and residents apparently blame him.",
+            "url": "https://www.cbsnews.com/news/chesa-boudin-san-francisco-da-recalled/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/06/08/57777b87-a8e9-4060-bef7-85ac3402ae96/thumbnail/1200x630/69668ce16a1c7eb49dfbdec362e153d6/ap22159205332323.jpg",
+            "publishedAt": "2022-06-08T12:12:00Z",
+            "content": "San Francisco residents voted overwhelmingly Tuesday to recall District Attorney Chesa Boudin, one of the nation's most progressive top prosecutors.\r\nPartial results from the San Francisco Department… [+3981 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Axios",
+            "title": "Political earthquake in California has the left on the run - Axios",
+            "description": "It's a bleak sign for President Biden as Dems try to hold on to the House and Senate in November.",
+            "url": "https://www.axios.com/2022/06/08/california-democrats-political-earthquake",
+            "urlToImage": "https://images.axios.com/9K0G7ZhzXglY6Lwtp4kkq0knFqA=/0x0:1920x1080/1366x768/2022/06/08/1654685479400.jpg",
+            "publishedAt": "2022-06-08T11:58:42Z",
+            "content": "Voters in deep-blue California rebuked Democrats in both the Bay Area and Southland on Tuesday.\r\nWhy it matters: Even in top Democratic power centers, midterm-year liberal voters are fed up. It's a b… [+866 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Jenna Lemoncelli",
+            "title": "Deshaun Watson shares cryptic Instagram post after bombshell report - New York Post ",
+            "description": "The post in question arrived shortly after The New York Times published a story detailing how Watson used “at least” 66 female massage therapists between the fall of 2019 and the spring…",
+            "url": "https://nypost.com/2022/06/08/deshaun-watson-appears-to-address-bombshell-report-on-instagram/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/06/newspress-collage-22573526-1654687840492.jpg?quality=75&strip=all&1654673514&w=1024",
+            "publishedAt": "2022-06-08T11:39:00Z",
+            "content": "Deshaun Watson appeared to address “rumors” in a cryptic post Tuesday on his Instagram Story the same day a new report alleged that the Browns quarterback arranged massages with “at least” 66 differe… [+2245 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Natacha Larnaud",
+            "title": "Every patient in this experimental cancer drug trial saw their cancer disappear, researchers say - CBS News",
+            "description": "In a small study, patients with rectal cancer got six months of immunotherapy treatment — and doctors say their tumors disappeared.",
+            "url": "https://www.cbsnews.com/news/rectal-cancer-drug-trial-immunotherapy-dostarlimab-study/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/06/07/7c92fd88-e3ea-427c-ba27-204fc7f21bc0/thumbnail/1200x630/5bb42c08512cda17df1e0e64fb68c639/msk-cereck-220511-417-rt-1200x800.png",
+            "publishedAt": "2022-06-08T11:29:00Z",
+            "content": "A small clinical trial conducted by Memorial Sloan Kettering Cancer Center found that every single rectal cancer patient who received an experimental immunotherapy treatment had their cancer go into … [+4259 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jon Porter",
+            "title": "Nothing will launch its debut smartphone on July 12th - The Verge",
+            "description": "Nothing will announce its first smartphone at an event on July 12th. The Nothing Phone 1 will be the company’s second ever device, following the release of its Ear 1 true wireless earbuds last year.",
+            "url": "https://www.theverge.com/2022/6/8/23159446/nothing-phone-1-launch-event-july-12th",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/FdXsWKUdJ2MaxCaeazp_1g8LJNQ=/0x116:1620x964/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23339142/Home_Screen___First_Iteration__not_final_.jpg",
+            "publishedAt": "2022-06-08T11:19:58Z",
+            "content": "Following its true wireless earbuds last year\r\nAn early image of the phones home screen released in March.\r\nImage: Nothing\r\nNothing, the consumer tech startup led by OnePlus co-founder Carl Pei, will… [+1061 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Diana Olick",
+            "title": "Mortgage demand falls to the lowest level in 22 years, amid rising rates and slowing home sales - CNBC",
+            "description": "Mortgage demand continues to fall as interest rates rise further and affordability in the housing market weakens.",
+            "url": "https://www.cnbc.com/2022/06/08/mortgage-demand-falls-to-the-lowest-level-in-22-years.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106872971-1619185782795-gettyimages-1313885906-b91i344870845.jpeg?v=1654633725&w=1920&h=1080",
+            "publishedAt": "2022-06-08T11:00:01Z",
+            "content": "Mortgage rates are back on the upswing, after a brief decline in May, and the housing market is still suffering from a lack of listings. As a result, mortgage demand continues to drop.\r\nTotal mortgag… [+1960 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Lianne Kolirin, CNN",
+            "title": "Jim Seals, of soft-rock duo Seals and Crofts, dead at 80 - CNN",
+            "description": "Jim Seals, one half of 1970s soft-rock duo Seals and Crofts, has died at the age of 80, according to his family.",
+            "url": "https://www.cnn.com/2022/06/08/entertainment/jim-seals-dead-intl-scli/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220608032436-jim-seals-dead-intl-scli-super-tease.jpg",
+            "publishedAt": "2022-06-08T10:50:00Z",
+            "content": "(CNN)Jim Seals, one half of 1970s soft-rock duo Seals and Crofts, has died at the age of 80, according to his family. \r\nSeals, together with musical partner Darrell \"Dash\" Crofts, was best known for … [+1472 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Robyn White",
+            "title": "Monkeypox Airborne: Can Masks Prevent the Spread? - Newsweek",
+            "description": "The Centers for Disease Control and Prevention (CDC) has recently updated its guidance on masks and monkeypox.",
+            "url": "https://www.newsweek.com/monkeypox-airborne-masks-prevent-spread-1713801",
+            "urlToImage": "https://d.newsweek.com/en/full/2053778/monkeypox.jpg",
+            "publishedAt": "2022-06-08T10:18:40Z",
+            "content": "Face masks played a key role in preventing the spread of coronavirus. In many countries, wearing them was mandatory and is still common practice across the globe.\r\nNow, there is another virus making … [+3488 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "George Ramsay, CNN",
+            "title": "Denver Broncos and Walton-Penner family enter into purchase and sale agreement - CNN",
+            "description": "The Denver Broncos and the Walton-Penner family have entered into a purchase and sale agreement to acquire the NFL team, it was announced on Tuesday.",
+            "url": "https://www.cnn.com/2022/06/08/sport/denver-broncos-walton-penner-family-nfl-spt-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220608045324-04-denver-broncos-walton-penner-family-super-tease.jpg",
+            "publishedAt": "2022-06-08T10:14:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "NASA Completes Main Body of Europa Clipper Spacecraft – Will Search for Life on Jupiter’s Icy Moon Europa - SciTechDaily",
+            "description": "NASA’s mission to explore Jupiter’s icy moon takes a big step forward as engineers deliver a major component of the spacecraft. Europa, Jupiter’s icy moon, almost certainly has a vast ocean beneath its icy shell. In fact, scientists believe this ocean contain…",
+            "url": "https://scitechdaily.com/nasa-completes-main-body-of-europa-clipper-spacecraft-will-search-for-life-on-jupiters-icy-moon-europa/",
+            "urlToImage": "https://scitechdaily.com/images/Europa-Mission-Spacecraft-Artists-Rendering.jpg",
+            "publishedAt": "2022-06-08T09:34:18Z",
+            "content": "ByNASAJune 8, 2022\r\nArtists rendering of NASAs Europa Clipper spacecraft. Credit: NASA/JPL-Caltech\r\nNASA\r\nEstablished in 1958, the National Aeronautics and Space Administration (NASA) is an independe… [+9359 chars]"
+        }
+    ]
+}
